@@ -47,4 +47,4 @@ assert build_list("Apple", 3) == [
 ], f"Expected ['Apple', 'Apple', 'Apple'] but received {repr(build_list('Apple', 3))}"
 assert build_list("Orange") == [
     "Orange"
-], f"Expected ['Orange'] but received {repr(build_list('Orange'))}"
+], f"Expected ['Orange'] but received {repr(build_list('Orange1'))}"
